@@ -1,0 +1,41 @@
+
+
+Hey everyone,
+
+CyberPup Alpha is now available for testing! It's an iOS and Android app that aims to make personal cybersecurity accessible to non-tech people. Think of it as "Duolingo for cybersecurity" - users get bite-sized lessons and can track their progress through a personal security health check.
+
+What makes it different:
+
+    Gamified approach with progress tracking
+
+    Tailored instructions based on your actual devices
+
+    Covers the essentials: password management, 2FA, device security, privacy settings
+
+    Completely free (and will stay that way)
+
+    Based on established guidelines like cyber.gov's personal security guides
+
+Why I'm building it: Too many people feel overwhelmed by cybersecurity advice. My goal is to break it down into manageable, actionable steps that anyone can follow, regardless of technical background. Also, a lot of the "security" apps on mobile app store either don't help at all or only cover a small part of the problem, while costing money. This app requires more user intervention but makes an actual difference and covers all areas.
+
+Looking for feedback on:
+
+    User experience and app flow
+
+    Content clarity and usefulness
+
+    Any bugs or technical issues
+
+    Whether this approach actually helps people improve their security
+
+How to join the alpha: iOS:
+• Test via the Testflight app: https://testflight.apple.com/join/H1EcqsYB
+
+Android:
+• First, join the Google Group: https://groups.google.com/u/1/g/cyberpup-testers
+• Test on Android: https://play.google.com/store/apps/details?id=com.cyberpup.security
+• Or, join on Web: https://play.google.com/apps/testing/com.cyberpup.security
+
+I'm genuinely looking for constructive feedback to make this as helpful as possible. If you try it out, I'd love to hear your thoughts - what works, what doesn't, and what's missing.
+
+Thanks for considering it!
